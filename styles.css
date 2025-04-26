@@ -12,6 +12,7 @@ body {
   text-align: left;
   overflow-wrap: break-word;
   line-height: 1.6;
+  margin: auto;
 }
 
 a {
